@@ -1,0 +1,14 @@
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\bin\Debug\net9.0\tarefa-class-veiculo.exe
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\bin\Debug\net9.0\tarefa-class-veiculo.deps.json
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\bin\Debug\net9.0\tarefa-class-veiculo.runtimeconfig.json
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\bin\Debug\net9.0\tarefa-class-veiculo.dll
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\bin\Debug\net9.0\tarefa-class-veiculo.pdb
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.AssemblyInfoInputs.cache
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.AssemblyInfo.cs
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.csproj.CoreCompileInputs.cache
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.dll
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\refint\tarefa-class-veiculo.dll
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.pdb
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\tarefa-class-veiculo.genruntimeconfig.cache
+C:\Users\49210334809\OneDrive - SESISENAISP - Escolas\Woskpace\Lp\tarefa-class-veiculo\obj\Debug\net9.0\ref\tarefa-class-veiculo.dll
